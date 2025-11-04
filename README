@@ -1,0 +1,10 @@
+# 🩺 Pneumonia Detection using MobileNetV2
+
+This web app uses a transfer learning model (MobileNetV2) to detect pneumonia from chest X-ray images.
+
+## How to Use
+1. Upload a chest X-ray image (JPG/PNG).
+2. The model predicts whether it shows **Pneumonia** or **Normal**.
+3. Confidence score is displayed.
+
+Deployed on [Streamlit Cloud](https://streamlit.io/cloud).
